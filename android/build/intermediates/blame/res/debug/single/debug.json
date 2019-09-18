@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "/home/ankit/UdtaPanchi/android/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/home/ankit/UdtaPanchi/android/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/ankit/UdtaPanchi/android/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/home/ankit/UdtaPanchi/android/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/ankit/UdtaPanchi/android/build/intermediates/res/merged/debug/mipmap-anydpi-v26_launcher.xml.flat",
+        "source": "/home/ankit/UdtaPanchi/android/res/mipmap-anydpi-v26/launcher.xml"
+    },
+    {
+        "merged": "/home/ankit/UdtaPanchi/android/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/home/ankit/UdtaPanchi/android/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/ankit/UdtaPanchi/android/build/intermediates/res/merged/debug/mipmap-xhdpi_launcher_round.png.flat",
+        "source": "/home/ankit/UdtaPanchi/android/res/mipmap-xhdpi/launcher_round.png"
+    },
+    {
+        "merged": "/home/ankit/UdtaPanchi/android/build/intermediates/res/merged/debug/drawable-xxxhdpi_launcher_background.png.flat",
+        "source": "/home/ankit/UdtaPanchi/android/build/generated/res/pngs/debug/drawable-xxxhdpi/launcher_background.png"
+    },
+    {
+        "merged": "/home/ankit/UdtaPanchi/android/build/intermediates/res/merged/debug/mipmap-xxxhdpi_launcher_round.png.flat",
+        "source": "/home/ankit/UdtaPanchi/android/res/mipmap-xxxhdpi/launcher_round.png"
+    },
+    {
+        "merged": "/home/ankit/UdtaPanchi/android/build/intermediates/res/merged/debug/mipmap-xhdpi_launcher.png.flat",
+        "source": "/home/ankit/UdtaPanchi/android/res/mipmap-xhdpi/launcher.png"
+    },
+    {
+        "merged": "/home/ankit/UdtaPanchi/android/build/intermediates/res/merged/debug/mipmap-xxhdpi_launcher.png.flat",
+        "source": "/home/ankit/UdtaPanchi/android/res/mipmap-xxhdpi/launcher.png"
+    },
+    {
+        "merged": "/home/ankit/UdtaPanchi/android/build/intermediates/res/merged/debug/drawable-hdpi_launcher_background.png.flat",
+        "source": "/home/ankit/UdtaPanchi/android/build/generated/res/pngs/debug/drawable-hdpi/launcher_background.png"
+    },
+    {
+        "merged": "/home/ankit/UdtaPanchi/android/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/home/ankit/UdtaPanchi/android/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ankit/UdtaPanchi/android/build/intermediates/res/merged/debug/drawable-mdpi_launcher_background.png.flat",
+        "source": "/home/ankit/UdtaPanchi/android/build/generated/res/pngs/debug/drawable-mdpi/launcher_background.png"
+    },
+    {
+        "merged": "/home/ankit/UdtaPanchi/android/build/intermediates/res/merged/debug/mipmap-xhdpi_launcher_foreground.png.flat",
+        "source": "/home/ankit/UdtaPanchi/android/res/mipmap-xhdpi/launcher_foreground.png"
+    },
+    {
+        "merged": "/home/ankit/UdtaPanchi/android/build/intermediates/res/merged/debug/drawable-ldpi_launcher_background.png.flat",
+        "source": "/home/ankit/UdtaPanchi/android/build/generated/res/pngs/debug/drawable-ldpi/launcher_background.png"
+    },
+    {
+        "merged": "/home/ankit/UdtaPanchi/android/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/home/ankit/UdtaPanchi/android/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ankit/UdtaPanchi/android/build/intermediates/res/merged/debug/mipmap-xxhdpi_launcher_foreground.png.flat",
+        "source": "/home/ankit/UdtaPanchi/android/res/mipmap-xxhdpi/launcher_foreground.png"
+    },
+    {
+        "merged": "/home/ankit/UdtaPanchi/android/build/intermediates/res/merged/debug/drawable-anydpi-v26_ic_launcher_foreground.xml.flat",
+        "source": "/home/ankit/UdtaPanchi/android/res/drawable-anydpi-v26/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/ankit/UdtaPanchi/android/build/intermediates/res/merged/debug/mipmap-mdpi_launcher.png.flat",
+        "source": "/home/ankit/UdtaPanchi/android/res/mipmap-mdpi/launcher.png"
+    },
+    {
+        "merged": "/home/ankit/UdtaPanchi/android/build/intermediates/res/merged/debug/drawable-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/ankit/UdtaPanchi/android/res/drawable-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/ankit/UdtaPanchi/android/build/intermediates/res/merged/debug/mipmap-xxhdpi_launcher_round.png.flat",
+        "source": "/home/ankit/UdtaPanchi/android/res/mipmap-xxhdpi/launcher_round.png"
+    },
+    {
+        "merged": "/home/ankit/UdtaPanchi/android/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/ankit/UdtaPanchi/android/res/drawable-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ankit/UdtaPanchi/android/build/intermediates/res/merged/debug/mipmap-hdpi_launcher.png.flat",
+        "source": "/home/ankit/UdtaPanchi/android/res/mipmap-hdpi/launcher.png"
+    },
+    {
+        "merged": "/home/ankit/UdtaPanchi/android/build/intermediates/res/merged/debug/mipmap-mdpi_launcher_foreground.png.flat",
+        "source": "/home/ankit/UdtaPanchi/android/res/mipmap-mdpi/launcher_foreground.png"
+    },
+    {
+        "merged": "/home/ankit/UdtaPanchi/android/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/ankit/UdtaPanchi/android/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ankit/UdtaPanchi/android/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/ankit/UdtaPanchi/android/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/ankit/UdtaPanchi/android/build/intermediates/res/merged/debug/drawable-xhdpi_launcher_background.png.flat",
+        "source": "/home/ankit/UdtaPanchi/android/build/generated/res/pngs/debug/drawable-xhdpi/launcher_background.png"
+    },
+    {
+        "merged": "/home/ankit/UdtaPanchi/android/build/intermediates/res/merged/debug/mipmap-hdpi_launcher_round.png.flat",
+        "source": "/home/ankit/UdtaPanchi/android/res/mipmap-hdpi/launcher_round.png"
+    },
+    {
+        "merged": "/home/ankit/UdtaPanchi/android/build/intermediates/res/merged/debug/mipmap-hdpi_launcher_foreground.png.flat",
+        "source": "/home/ankit/UdtaPanchi/android/res/mipmap-hdpi/launcher_foreground.png"
+    },
+    {
+        "merged": "/home/ankit/UdtaPanchi/android/build/intermediates/res/merged/debug/drawable-anydpi-v21_launcher_background.xml.flat",
+        "source": "/home/ankit/UdtaPanchi/android/build/generated/res/pngs/debug/drawable-anydpi-v21/launcher_background.xml"
+    },
+    {
+        "merged": "/home/ankit/UdtaPanchi/android/build/intermediates/res/merged/debug/mipmap-xxxhdpi_launcher_foreground.png.flat",
+        "source": "/home/ankit/UdtaPanchi/android/res/mipmap-xxxhdpi/launcher_foreground.png"
+    },
+    {
+        "merged": "/home/ankit/UdtaPanchi/android/build/intermediates/res/merged/debug/mipmap-mdpi_launcher_round.png.flat",
+        "source": "/home/ankit/UdtaPanchi/android/res/mipmap-mdpi/launcher_round.png"
+    },
+    {
+        "merged": "/home/ankit/UdtaPanchi/android/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/ankit/UdtaPanchi/android/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/ankit/UdtaPanchi/android/build/intermediates/res/merged/debug/mipmap-xxxhdpi_launcher.png.flat",
+        "source": "/home/ankit/UdtaPanchi/android/res/mipmap-xxxhdpi/launcher.png"
+    },
+    {
+        "merged": "/home/ankit/UdtaPanchi/android/build/intermediates/res/merged/debug/mipmap-anydpi-v26_launcher_round.xml.flat",
+        "source": "/home/ankit/UdtaPanchi/android/res/mipmap-anydpi-v26/launcher_round.xml"
+    },
+    {
+        "merged": "/home/ankit/UdtaPanchi/android/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/home/ankit/UdtaPanchi/android/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/ankit/UdtaPanchi/android/build/intermediates/res/merged/debug/drawable-xxhdpi_launcher_background.png.flat",
+        "source": "/home/ankit/UdtaPanchi/android/build/generated/res/pngs/debug/drawable-xxhdpi/launcher_background.png"
+    },
+    {
+        "merged": "/home/ankit/UdtaPanchi/android/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/home/ankit/UdtaPanchi/android/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ankit/UdtaPanchi/android/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/home/ankit/UdtaPanchi/android/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
+    }
+]
